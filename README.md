@@ -1,4 +1,4 @@
-## Shooping Cart Trybe
+## Instagram Interface
 This is a clone of the Instagram initial interface
 
 
